@@ -9,7 +9,7 @@
 - Percentage of overall sick leave to monitoring employee wellness
 - Show visualizacions and trendings and compare KPI during month or days of week
 
-![header_photo](https://github.com/CarlEstP/app_inquilino_ideal/blob/main/media/powerbi_capture.PNG)
+![header_photo](https://github.com/CarlEstP/attendance_work/blob/main/media/powerbi_capture.PNG)
 
 ## 2. Prepare dataset in Powerquery
 
