@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Context, business problem, and cuestions we want to answer:
+## 1. Context, business problem, and questions we want to answer:
 
 - Working preferences for people: working from home or office
 - Presence of employees at work
@@ -46,7 +46,14 @@
 - Table: day of week - WFH %
 - Table: day of week - SL %
 
-## 5. Scope and future requeriments
+## 5. Dashboard visualization elements
+
+- The attendance at work decreases as the summer months approach.</li>
+- Remote work increases as the summer months approach.</li>
+- The employee sick leave increases as summer approaches.</li>
+- Employees prefers remote work on friday, followed by monday, and then the rest of the days</li>
+
+## 6. Scope and future requeriments
 
 - Sending alerts: automatic emails to alert, for example, a high value of non presence workers.
 - Automatic data refresh: update the data automatically.
