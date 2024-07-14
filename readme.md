@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # FULL PROJECT - HR ANALYTICS - POWER BI
 
 ---
